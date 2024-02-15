@@ -1,5 +1,5 @@
 # Reference-list-
-Reference list 
+
 Ballard, K. R., Klein, A. H., Hayes, R. A., Wang, T., & Cummins, S. F. (2021). The protein and volatile components of trail mucus in the Common Garden Snail, Cornu aspersum. PLOS ONE, 16(5), e0251565. https://doi.org/10.1371/journal.pone.0251565
 
 Barua, A., Williams, C. D., & Ross, J. L. (2021). A Literature Review of Biological and Bio-Rational Control Strategies for Slugs: Current Research and Future Prospects. Insects, 12(6), 541. https://doi.org/10.3390/insects12060541
